@@ -1,4 +1,4 @@
-BUILD_DIRS=build.*
+  BUILD_DIRS=build.*
 
 all: release
 
